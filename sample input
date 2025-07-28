@@ -1,0 +1,62 @@
+Student Performance Analyzer
+
+MENU
+1. Analyze Performance of a Particular Exam
+2. Analyze Performance of All Exams
+3. Exit
+Enter your choice (1/2/3): 1
+
+Entering scores for Exam 1
+Enter number of subjects: 2
+Enter score for Subject 1: 69
+Enter score for Subject 2: 72
+
+Performance in Exam 1:
+Subject 1: 69.0
+Subject 2: 72.0
+Total: 141.0
+Average: 70.50
+Result: Pass
+
+MENU
+1. Analyze Performance of a Particular Exam
+2. Analyze Performance of All Exams
+3. Exit
+Enter your choice (1/2/3): 2
+Enter the number of exams: 2
+
+Entering scores for Exam 1
+Enter number of subjects in Exam 1: 2
+Enter score for Subject 1: 78
+Enter score for Subject 2: 69
+
+Entering scores for Exam 2
+Enter number of subjects in Exam 2: 2
+Enter score for Subject 1: 58
+Enter score for Subject 2: 92
+
+Overall Performance Across All Exams:
+
+Exam 1
+Subject 1: 78.0
+Subject 2: 69.0
+Total: 147.0
+Average: 73.50
+Result: Pass
+
+Exam 2
+Subject 1: 58.0
+Subject 2: 92.0
+Total: 150.0
+Average: 75.00
+Result: Pass
+
+Overall Average Across All Exams: 74.25
+Final Result: Pass
+
+MENU
+1. Analyze Performance of a Particular Exam
+2. Analyze Performance of All Exams
+3. Exit
+Enter your choice (1/2/3): 3
+Exiting program.
